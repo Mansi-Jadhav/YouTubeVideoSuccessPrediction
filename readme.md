@@ -22,7 +22,7 @@ Metadata: SVM/SVR for classification & regression
 Classification (5 view-range classes): Achieved 48% accuracy, with metadata as the strongest modality. Fusion improved robustness over video/text alone.
 Regression: Explored log view prediction, but classification proved more stable and interpretable.
 
-**Key Insight:* Metadata carries the strongest predictive power, while video and text add complementary signals.
+**Key Insight:** Metadata carries the strongest predictive power, while video and text add complementary signals.
 
 ⚙️ **Tech Stack**
 Python, PyTorch, scikit-learn, Optuna
