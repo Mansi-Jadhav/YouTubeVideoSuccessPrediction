@@ -1,4 +1,4 @@
-<h1># Multimodal AI for YouTube Video Success Prediction</h1>
+# Multimodal AI for YouTube Video Success Prediction
 
 A multimodal machine learning framework for predicting YouTube video performance using video content, textual information, and channel metadata. This project was developed as part of my MSc Dissertation in Big Data Science and investigates how different modalities contribute to forecasting video popularity.
 
